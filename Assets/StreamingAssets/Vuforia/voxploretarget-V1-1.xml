@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="gymnasium" size="1.000000 1.000000" />
+    <ImageTarget name="gedungzeta" size="1.000000 1.000000" />
+    <ImageTarget name="gedungti" size="1.000000 1.000000" />
+    <ImageTarget name="gedungcc" size="1.000000 1.000000" />
+    <ImageTarget name="gedungcb" size="1.000000 1.000000" />
+    <ImageTarget name="gedungca" size="1.000000 1.000000" />
+  </Tracking>
+</QCARConfig>
